@@ -12,7 +12,6 @@ const GridBackground = [
     image:
       'https://images.unsplash.com/photo-1682687982204-f1a77dcc3067?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw3NXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
   },
-  ,
   {
     text: '8월 신상 할인',
     image:
